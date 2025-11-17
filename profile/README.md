@@ -1,10 +1,10 @@
 ORGANIZATIONAL LICENSE FOR DATAPACKS, MODS, AND RELATED MATERIALS
-Version 1.1
+Version 1.2
 
 Copyright (c) 2025 Heimdal Minecraft Admin Team
 
 0. Scope and Supremacy of This License
-This Organizational License applies to all datapacks, mods, and related materials (“Materials”) developed by [Your Organization Name].  
+This Organizational License applies to all datapacks, mods, and related materials (“Materials”) developed by Heimdal Minecraft Admin Team.  
 In the event of any conflict between this license and any project-level or file-level license included within the Materials, **this Organizational License takes precedence and shall override any conflicting terms**.
 
 1. Authorized Partner Use
